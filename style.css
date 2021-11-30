@@ -1,5 +1,7 @@
 .gombok{
     width: 250px;
+    background-color: grey;
+    
 }
 .hatterkep
 {
@@ -7,5 +9,5 @@
     height: 250px;
 }
 .szoveg{
-    text-align: center;
+    float:initial;
 }
