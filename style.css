@@ -3,8 +3,8 @@
 }
 .hatterkep
 {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: auto;
 }
 .szoveg{
     float:initial;
@@ -19,7 +19,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 300px;
+  width: 400px;
   background-color: #444444;
 }
   
