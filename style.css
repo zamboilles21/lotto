@@ -1,7 +1,5 @@
 .gombok{
     width: 300px;
-    
-    
 }
 .hatterkep
 {
@@ -37,8 +35,13 @@ ul {
   }
 
   .szamok{
-    font-size: 60px;
+    font-size: 45px;
     text-align: center;
     padding: 5px;
     margin-top: 10px;
+    font-weight: lighter;
+  }
+  h1{
+    text-align: center;
+    font-size: 45px;
   }
