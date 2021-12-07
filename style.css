@@ -20,6 +20,7 @@ ul {
   padding: 0;
   width: 300px;
   background-color: #444444;
+  display: inline-block;
 }
   
  li a {
