@@ -1,13 +1,15 @@
 .gombok{
     width: 300px;
 }
+
 .hatterkep{
     width: 300px;
     height: 300px;
 }
 .szoveg{
-    float:initial;
+   float:initial;
 }
+
 body{
   font-family: Arial, Helvetica, sans-serif;
   margin-left: 0;
@@ -30,7 +32,6 @@ ul {
   text-decoration: none;
     
 }
-  
 
 li a:hover {
   background-color: #444444;
