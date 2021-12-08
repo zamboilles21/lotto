@@ -61,7 +61,7 @@ h2{
   text-align: center;
   font-size: 45px;
 }
-#erdszov
-{
-  text-align: right;
+#aside{
+  float: left;
+  width: 600px;
 }
