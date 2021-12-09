@@ -1,0 +1,4 @@
+Elõzõ heti számok: 30	54	55	81	89
+Mult heti számok: 30	57	58	61	86
+leggyakoribb számok:3    1    	29 	75 	15
+		    218db 209db	208db  	207db	204db
