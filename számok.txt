@@ -13,4 +13,3 @@ Leghasonlóbb: számsorok:
 	11 24 37 52 61 1987 28.hét
 
 A 3 Leghosszabb sorozatot tartalmazó számsor:
-	
