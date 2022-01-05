@@ -8,5 +8,8 @@ Legkisebb számok:
 2	6	9	23	26  osszeguk:66	
 1	12	13	15	26  osszeguk:67
 
-Leghasonlóbb: számsorok: 11 24 37 52 54 1988 20.hét
-			11 24 37 52 61 1987 28.hét
+Leghasonlóbb: számsorok: 
+	11 24 37 52 54 1988 20.hét
+	11 24 37 52 61 1987 28.hét
+
+A 3 Leghosszabb sorozatot tartalmazó számsor:
