@@ -1,0 +1,13 @@
+Lotto projekt
+
+Csapattagok:
+    Zámbó Illés
+    Kalló Márk Gyula
+
+Korábbi sorsolások: Megmutatja az előző és a múlt hri nyerőszámokat.
+Leggyakoribb számok: A legtöbbször előforduló számokat mutatja meg.
+Leghasonlóbb számok: Azok a számok, amik a nagyon hasonlítottak egymásra, dátummal ellátva.
+Leghosszabb számsorozatok: Azt mutatja meg hogy melyikek voltak a leghosszabb számsorozatok.
+Legkisebb összegű számsorok: Megmutatja, hogy melyik számsorozatok voltak a legkisebbek és azok összegét.
+Grafikonok: Az nyeremények és az ötös találatok statisztikáját mutatja meg a felhasználónak.
+Érdekességek: Érdekes történetek a szerencsejáték világából.
