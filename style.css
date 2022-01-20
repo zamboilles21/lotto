@@ -63,14 +63,14 @@ h2{
 }
 #aside{
   float: left;
-  width: 400px;
+  width: 350px;
 }
 
 .golyok{
-  height: 120px;
-  width: 120px;
+  height: 10%;
+  width: 10%;
 }
 .golyok2{
-  height: 100px;
-  width: 100px;
+  height: 10%;
+  width: 10%;
 }
